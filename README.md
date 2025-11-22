@@ -57,6 +57,7 @@ All plots are saved inside the `task1_plots/` folder.
 | `Task 1_Exploratory_Sales_Analysis.ipynb` | Jupyter Notebook |
 | `task1_plots` | All generated files for reporting |
 | `README.md` | This documentation file) |
+| `TASK_1_Output_Files` | Contain all Output Files |
 
 ## 📊 Key Insights (Short Summary)
 - Dataset covers **2012–2017**.  
